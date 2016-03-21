@@ -1,0 +1,39 @@
+
+
+body{
+  background-image: url(../img/skyEdit.jpg);
+  background-repeat: no-repeat;
+  background-position: center 400px;
+  background-color: #cad1d4;
+}
+img{
+  width: 100%;
+}
+
+.heading{
+  width: 100%;
+  height: 400px;
+  background-image: url(../img/planeEdit.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #7d6877;
+
+
+}
+
+h1{
+  color: #fff;
+
+  font-size: 50px;
+  text-align: center ;
+  width:100%;
+  padding-top: 100px;
+  padding-left: 200px;
+
+
+}
+
+.main-content{
+  color: black;
+  margin-top:60px;
+}
